@@ -8,7 +8,6 @@
 #define QTD_PRODUTOS 30
 #define MAX_VENDAS 100
 
-//teste
 
 //Nova para teste de imprimir venda
 typedef struct{
